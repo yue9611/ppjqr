@@ -1,0 +1,41 @@
+
+water.png
+size: 71,122
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 36, 110
+  size: 33, 10
+  orig: 33, 10
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 2, 114
+  size: 32, 6
+  orig: 32, 6
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 22, 95
+  size: 33, 13
+  orig: 33, 13
+  offset: 0, 0
+  index: -1
+shou
+  rotate: true
+  xy: 2, 97
+  size: 15, 18
+  orig: 19, 20
+  offset: 0, 2
+  index: -1
+st
+  rotate: false
+  xy: 2, 2
+  size: 66, 91
+  orig: 66, 91
+  offset: 0, 0
+  index: -1
